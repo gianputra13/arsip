@@ -25,3 +25,6 @@ You can do this in localhost:8080  (adminer) with "root" as user, "example" as p
 Then create the database & table and you should be able to see the php grab the users and display them.
 
 https://truthseekers.io/php-docker-simple-environment/ blog post.
+
+
+testing
